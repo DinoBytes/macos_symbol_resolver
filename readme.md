@@ -4,7 +4,7 @@ If you've ever tried and failed to load a non-publicly exported symbol in macOS 
 
 ## Acknowledgements and Licensing
 
-The code in this repo is largely a mashup of works by [Jonathan Levin](https://newosxbook.com) and various StackOverflow posts. While not intentionally copied, the code in this repo is extremely similar to the aforementioned resources. All credit for the discovery and publication of these methods belongs to them.
+The code in this repo is largely a mashup of works by [Jonathan Levin](http://newosxbook.com) and various StackOverflow posts. While not intentionally copied, the code in this repo is extremely similar to the aforementioned resources. All credit for the discovery and publication of these methods belongs to them.
 
 Additionally, this code makes use of the CoreSymbolication Private Framework provided by Apple that is built into macOS.
 
